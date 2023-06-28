@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "mBvs"]
 	path = mBvs
 	url = https://github.com/cran/mBvs
-	shallow = true
-	registered = true
 [submodule "psbcGroup"]
 	path = psbcGroup
 	url = https://github.com/cran/psbcGroup
-	shallow = true
-	registered = true
 [submodule "SemiCompRisks"]
 	path = SemiCompRisks
 	url = https://github.com/cran/SemiCompRisks
-	shallow = true
-	registered = true
