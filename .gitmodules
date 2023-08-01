@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SemiCompRisks"]
+	path = SemiCompRisks
+	url = https://github.com/cran/SemiCompRisks
 [submodule "mBvs"]
 	path = mBvs
 	url = https://github.com/cran/mBvs
 [submodule "psbcGroup"]
 	path = psbcGroup
 	url = https://github.com/cran/psbcGroup
-[submodule "SemiCompRisks"]
-	path = SemiCompRisks
-	url = https://github.com/cran/SemiCompRisks
