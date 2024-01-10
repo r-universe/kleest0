@@ -8,6 +8,3 @@
 [submodule "mBvs"]
 	path = mBvs
 	url = https://github.com/cran/mBvs
-[submodule "psbcGroup"]
-	path = psbcGroup
-	url = https://github.com/cran/psbcGroup
